@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Borhanedine%20Boussaha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20DevOps%20Engineer%20%7C%20AI%20Explorer&descAlignY=52&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Borhanedine%20Boussaha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Dev%20%7C%20Backend%20Engineer%20%7C%20DevOps%20Enthusiast&descAlignY=52&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+mobile+apps+with+Flutter+%F0%9F%9A%80;Automating+everything+with+DevOps+%E2%9A%99%EF%B8%8F;Learning+AI+%26+Machine+Learning+%F0%9F%A4%96;Always+up+for+a+chess+match+%E2%99%9F%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Flutter+Developer+%7C+Crafting+Beautiful+Mobile+Apps+%F0%9F%9A%80;Backend+Engineer+%7C+Node.js+%2B+Express+%2B+Firebase+%E2%9A%A1;DevOps+Enthusiast+%7C+Docker+%2B+K8s+%2B+AWS+%2B+GCP+%E2%9A%99%EF%B8%8F;Always+up+for+a+chess+match+%E2%99%9F%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -73,8 +73,10 @@ fun_fact: Big chess fan — always up for a match ♟️
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=borhanedinee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borhanedinee&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=borhanedinee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+<img width="49%" src="https://streak-stats.demolab.com?user=borhanedinee&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borhanedinee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
