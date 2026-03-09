@@ -12,11 +12,9 @@
 
 ```yaml
 name: BOUSSAHA Borhanedine
+study: 5th year IT engineering at ENSTICP ( ex INPTIC )
 location: Annaba, Algeria 🇩🇿
-focus: Flutter · Backend · DevOps · AI/ML
-currently_learning: Machine Learning, TDD, CI/CD
-goal: Senior Flutter Developer & DevOps Engineer
-fun_fact: Big chess fan — always up for a match ♟️
+focus: Flutter · Backend · DevOps · Cloud
 ```
 
 ---
