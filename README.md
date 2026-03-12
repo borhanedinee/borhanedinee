@@ -13,8 +13,9 @@
 ```yaml
 name: BOUSSAHA Borhanedine
 study: 5th year IT engineering at ENSTICP ( ex INPTIC )
-location: Annaba, Algeria 🇩🇿
+location: Algiers, Algeria 🇩🇿
 focus: Flutter · Backend · DevOps · Cloud
+hobbies: chess, reading
 ```
 
 ---
